@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Footer from "./components/Footer";
 
 function App() {
@@ -11,4 +12,19 @@ function App() {
   );
 }
 o
+=======
+import Header from './components/Header';
+import './App.css';
+import Footer from './components/Footer';
+
+function App() {
+  return (
+    <div className="App">
+      <Header></Header>
+      <Footer></Footer>
+    </div>
+  );
+}
+
+>>>>>>> 60a1915 (cc)
 export default App;
