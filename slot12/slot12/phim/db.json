@@ -1,0 +1,72 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Avengers",
+      "director": "Marvel Studio",
+      "year": 2019
+    },
+    {
+      "id": "2",
+      "title": "Titanic",
+      "director": "James Cameron",
+      "year": 1997
+    },
+    {
+      "id": "c06b",
+      "title": "dvsvd",
+      "director": "vsdvds",
+      "year": "1111"
+    },
+    {
+      "id": "f932",
+      "title": "scscasa",
+      "director": "csacas",
+      "year": "1111"
+    },
+    {
+      "id": "8548",
+      "avatar": "https://www.google.com/imgres?q=world&imgurl=https%3A%2F%2Fwww.thoughtco.com%2Fthmb%2F0nAR9A5cAVrTg8py3pvLlQlBMnE%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fworld-in-geographic-projection-true-colour-satellite-image-99151124-58b9cc3e5f9b58af5ca7578d.jpg&imgrefurl=https%3A%2F%2Fwww.thoughtco.com%2Fofficial-listing-of-countries-world-region-1435153&docid=22AI5LM1FQp0uM&tbnid=mVSiEjDZuqCwPM&vet=12ahUKEwjf9r-CsvmSAxXZ1zgGHZZ4OEEQnPAOegQIHhAB..i&w=1500&h=1061&hcb=2&ved=2ahUKEwjf9r-CsvmSAxXZ1zgGHZZ4OEEQnPAOegQIHhAB",
+      "title": "World",
+      "description": "phim rat hay luon dang xem",
+      "genreId": 2,
+      "duration": 10,
+      "year": 2027,
+      "country": "VIETNAM"
+    },
+    {
+      "id": "dabb",
+      "avatar": "sssssssssssssssssssssssssssss",
+      "title": "btnhat",
+      "description": "bai tap mon nhat",
+      "genreId": 3,
+      "duration": 10,
+      "year": 2026,
+      "country": "Japan"
+    },
+    {
+      "id": "54a0",
+      "avatar": "https://www.thoughtco.com/thmb/0nAR9A5cAVrTg8py3pvLlQlBMnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/world-in-geographic-projection-true-colour-satellite-image-99151124-58b9cc3e5f9b58af5ca7578d.jpg",
+      "title": "trai dat",
+      "description": "trai dat rat tron",
+      "genreId": 1,
+      "duration": 100,
+      "year": 2026,
+      "country": "World"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Drama"
+    }
+  ]
+}
