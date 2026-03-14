@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "fullName": "Administrator",
+      "email": "admin@budget.com",
+      "role": "admin",
+      "status": "active",
+      "avatar": "/images/users/admin.jpg"
+    },
+    {
+      "id": "2",
+      "username": "tranminh",
+      "password": "user123",
+      "fullName": "Trần Minh",
+      "email": "minh.tran@example.com",
+      "role": "user",
+      "status": "active",
+      "avatar": "/images/users/user1.jpg"
+    },
+    {
+      "id": "3",
+      "username": "phamhoa",
+      "password": "user123",
+      "fullName": "Phạm Hoa",
+      "email": "hoa.pham@example.com",
+      "role": "user",
+      "status": "active",
+      "avatar": "/images/users/user2.jpg"
+    },
+    {
+      "id": "4",
+      "username": "lockedaccount",
+      "password": "locked123",
+      "fullName": "Locked Account",
+      "email": "locked@budget.com",
+      "role": "user",
+      "status": "locked",
+      "avatar": "/images/users/locked.jpg"
+    }
+  ],
+  "expenses": [
+    {
+      "name": "Ăn sáng",
+      "amount": 30000,
+      "category": "Food",
+      "date": "2026-03-01",
+      "userId": "1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Ăn trưa",
+      "amount": 60000,
+      "category": "Food",
+      "date": "2026-03-02",
+      "userId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Tiền điện",
+      "amount": 450000,
+      "category": "Utilities",
+      "date": "2026-03-05",
+      "userId": "2"
+    },
+    {
+      "id": "4",
+      "name": "Internet",
+      "amount": 350000,
+      "category": "Utilities",
+      "date": "2026-03-06",
+      "userId": "2"
+    },
+    {
+      "id": "5",
+      "name": "Xem phim CGV",
+      "amount": 120000,
+      "category": "Entertainment",
+      "date": "2026-03-07",
+      "userId": "2"
+    },
+    {
+      "id": "6",
+      "name": "Mua áo khoác",
+      "amount": 900000,
+      "category": "Mua sắm",
+      "date": "2026-03-10",
+      "userId": "3"
+    },
+    {
+      "id": "7",
+      "name": "Ăn tối",
+      "amount": 150000,
+      "category": "Food",
+      "date": "2026-03-12",
+      "userId": "3"
+    },
+    {
+      "id": "8",
+      "name": "Spotify",
+      "amount": 59000,
+      "category": "Entertainment",
+      "date": "2026-03-14",
+      "userId": "3"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
